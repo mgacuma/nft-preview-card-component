@@ -15,7 +15,7 @@ body{
 .card-container{
     display: flex;
     justify-content: center;
-    align-self: center;
+    align-items: center;
     padding: 10%;
 }
 
@@ -78,7 +78,7 @@ body{
 }
 
 .titleBox{
-    padding-top: 6%;
+    padding-top: 8%;
     padding-left: 2%;
     align-self: start;
     text-align: left;
@@ -154,7 +154,7 @@ body{
     display: flex;
     align-items: center;
     margin-top: 8%;
-    border-top: 1px solid hsl(215, 51%, 70%);
+    border-top: 1px solid hsl(215, 32%, 27%);
     padding-top: 4%;
 }
 
